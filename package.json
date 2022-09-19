@@ -1,0 +1,14 @@
+{
+  "name": "respond.io-assgn",
+  "version": "1.0.0",
+  "description": "respond-tech-assgn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suprith kangokar",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.8.0"
+  }
+}
